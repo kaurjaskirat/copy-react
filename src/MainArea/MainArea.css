@@ -1,0 +1,18 @@
+/* .MainArea{
+    display:flex;
+    justify-content:space-between;
+
+}
+.Sidebar{
+    display:grid;
+    width:15%;
+    height:30rem;
+    background-color:red;
+}
+.Main{
+    display:flex;
+    justify-content:flex-start;
+    background-color:rgb(0, 255, 26);
+    width:85%;
+    height:30rem;
+} */
